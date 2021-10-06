@@ -1,0 +1,11 @@
+{
+  "name": "poo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gilson Alves",
+  "license": "MIT",
+  "dependencies": {
+    "node": "^16.10.0"
+  },
+  "type": "module"
+}
